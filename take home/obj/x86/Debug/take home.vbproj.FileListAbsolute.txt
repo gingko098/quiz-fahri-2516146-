@@ -1,0 +1,21 @@
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\take home\take home\bin\Debug\take home.exe
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\take home\take home\bin\Debug\take home.pdb
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\take home\take home\bin\Debug\take home.xml
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\take home\take home\obj\x86\Debug\take_home.Form1.resources
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\take home\take home\obj\x86\Debug\take_home.Resources.resources
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\take home\take home\obj\x86\Debug\take home.vbproj.GenerateResource.Cache
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\take home\take home\obj\x86\Debug\take home.exe
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\take home\take home\obj\x86\Debug\take home.xml
+D:\Users\NB10A\Documents\Visual Studio 2010\Projects\pajakkkkk\take home\take home\obj\x86\Debug\take home.pdb
+E:\Tugas fahri\semester 4\take home\take home\take home\obj\x86\Debug\take home.exe
+E:\Tugas fahri\semester 4\take home\take home\take home\obj\x86\Debug\take home.xml
+E:\Tugas fahri\semester 4\take home\take home\take home\obj\x86\Debug\take home.pdb
+E:\Tugas fahri\semester 4\take home\take home\take home\bin\Debug\take home.exe
+E:\Tugas fahri\semester 4\take home\take home\take home\bin\Debug\take home.pdb
+E:\Tugas fahri\semester 4\take home\take home\take home\bin\Debug\take home.xml
+E:\Tugas fahri\semester 4\take home\take home\take home\obj\x86\Debug\take_home.Form1.resources
+E:\Tugas fahri\semester 4\take home\take home\take home\obj\x86\Debug\take_home.Resources.resources
+E:\Tugas fahri\semester 4\take home\take home\take home\obj\x86\Debug\take home.vbproj.GenerateResource.Cache
+E:\Tugas fahri\semester 4\take home\quiz fahri(2516146)\take home\obj\x86\Debug\take home.exe
+E:\Tugas fahri\semester 4\take home\quiz fahri(2516146)\take home\obj\x86\Debug\take home.xml
+E:\Tugas fahri\semester 4\take home\quiz fahri(2516146)\take home\obj\x86\Debug\take home.pdb
